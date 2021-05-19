@@ -1,3 +1,3 @@
-## 0.0.1
+## 0.14.0
 
-* TODO: Describe initial release.
+- Riverpod 0.14.0 typedefs

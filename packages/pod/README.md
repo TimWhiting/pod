@@ -1,1 +1,1 @@
-A simple command-line application.
+A typedef package that renames Provider -> Pod in Riverpod
